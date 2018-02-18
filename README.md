@@ -1,6 +1,6 @@
 Rails Blogger web app.
 
-Logged users can post articles with images and tags, and then anybody can leave comments.
+Logged users can post articles with images and tags, anybody can leave comments.
 
 Authentication using sorcery gem.
 
