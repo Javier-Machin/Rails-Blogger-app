@@ -1,24 +1,14 @@
-# README
+Rails Blogger web app.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Logged users can post articles with images and tags, and then anybody can leave comments.
 
-Things you may want to cover:
+Authentication using sorcery gem.
 
-* Ruby version
+Allows comments.
 
-* System dependencies
+Tags functionality.
 
-* Configuration
+Allows image uploads provided by paperclip gem.
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[Take a look](https://fast-ridge-98614.herokuapp.com/)
