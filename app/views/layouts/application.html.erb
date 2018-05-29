@@ -13,8 +13,7 @@
 
       ga("create", "UA-120028229-1", "auto");
 
-      document.addEventListener "turbolinks:load", (event) ->
-      if typeof ga is "function"
+      document.addEventListener "turbolinks:load", (event) -> if typeof ga is "function"
         ga("set", "location", event.data.url)
         ga("send", "pageview")
       </script>
