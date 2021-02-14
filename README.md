@@ -5,8 +5,6 @@ Rails Blogger web app.
 * Tags functionality.
 * Allows image uploads provided by paperclip gem.
 
-[Take a look](https://fast-ridge-98614.herokuapp.com/)
-
 ----------------------------------
 
 Aplicación de blogging hecha con Rails.
@@ -14,5 +12,3 @@ Aplicación de blogging hecha con Rails.
 * Usuarios logeados pueden postear artículos con imágenes y tags, todo el mundo puede comentar.
 * Autentificación con la gema sorcery.
 * Permite subir imágenes gracias a la gema paperclip.
-
-Pruébela [aquí](https://fast-ridge-98614.herokuapp.com/)
